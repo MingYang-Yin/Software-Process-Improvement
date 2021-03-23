@@ -1,0 +1,3 @@
+python环境路径：
+base	C:\Users\HP\Anaconda3（主要使用）
+pytorch	C:\Users\HP\Anaconda3\envs\pythorch
